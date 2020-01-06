@@ -16,22 +16,14 @@
 　ただし、配布の際はSIL Open Font Licenseに基づいてリリースする必要があります。<br />
 ・SILライセンスについて詳しくはライセンス原文日本語サイト<br />
 　（https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1）<br />
-　または同梱の「OFL.txt」（英語）をご確認ください。<br />
 
 <h2>収録文字</h2>
-・半角英数、約物、ラテン拡張文字など（Google Latin Plus）592文字以上<br />
-・ひらがな、カタカナ、全角英数、全角記号、縦書き用文字<br />
-・otfは小文字の「a」のみ異体字(ss01)があります。<br />
-
+・半角英数　95文字<br />
+・ひらがな、カタカナ、一部縦書き用文字　193文字<br />
 
 <h2>できないこと</h2>
 ・「SIL Open Font License Version 1.1」以外のライセンスで再配布すること。<br />
 ・フォントファイル自体を単体で販売すること。<br />
-
-
-<h2>その他</h2>
-ご不明なことやお気付きの点がありましたら<a href="https://satsuyako.com/" target="_blank">作者HPのメールフォーム</a><br />
-または<a href="https://twitter.com/satsuyako" target="_blank">作者Twitter</a>へお問い合わせください。<br />
 
 
 <h2>更新履歴</h2>
