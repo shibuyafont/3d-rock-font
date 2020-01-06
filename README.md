@@ -1,12 +1,12 @@
 # 3d rock font - shibuyafont
-<img src="./ScreenShot2019-11-29 23.42.18.png" />
 
 <h2>はじめに</h2>
 こちらは今後GoogleFontsに提供するフォントです（まだ修正する可能性があります）<br />
 
 <h2>このフォントについて</h2>
 2019年に公開していた「3d rock font」のリメイク版、<br />
-東京都渋谷区で暮らし働く障がいのある人とデザイン学生が共同で制作した「シブヤフォント」（渋谷区公認）の一つです。<br />
+東京都渋谷区で暮らし働く障がいのある人とデザイン学生が共同で制作した「シブヤフォント」（渋谷区公認）の一つです。
+　http://www.shibuyafont.jp/index.html<br />
 
 <h2>SIL Open Font License Version 1.1ライセンスについて</h2>
 
