@@ -1,5 +1,7 @@
 # 3d rock font
 
+<img src="./3drockfont.jpeg" />
+
 <h2>はじめに</h2>
 こちらは今後GoogleFontsに提供するフォントです（まだ修正する可能性があります）<br />
 
