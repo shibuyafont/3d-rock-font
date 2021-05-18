@@ -3,7 +3,7 @@
 DisplayStrings = (
 "/we-kata/ve-kata/wo-kata/vo-kata"
 );
-copyright = "Copyright 2020 The Rock 3D Font Project Authors (https://github.com/shibuyafont/3d-rock-font), all rights reserved.";
+copyright = "Copyright 2020 The Rock 3D Project Authors (https://github.com/shibuyafont/3d-rock-font), all rights reserved.";
 customParameters = (
 {
 name = vendorID;
@@ -42,7 +42,7 @@ date = "2020-01-16 21:16:48 +0000";
 designer = Shibuyafont;
 designerURL = "http://www.shibuyafont.jp/index.html";
 disablesAutomaticAlignment = 1;
-familyName = "Rock 3D Font";
+familyName = "Rock 3D";
 featurePrefixes = (
 {
 automatic = 1;
